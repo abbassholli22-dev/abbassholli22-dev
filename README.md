@@ -2,57 +2,78 @@
 
 # Abbas Sohooli
 
-### Financial Economics • Global Financial Markets • Political Economy
+### Financial Economics · Global Financial Markets · Political Economy
 
-Independent analyst focused on understanding the forces shaping global markets, economies, and political decisions.
+**Independent Analyst | Macro & Market Research | Global Economic Affairs**
 
-[![GitHub](https://img.shields.io/badge/GitHub-abbassholli22--dev-181717?style=flat-square&logo=github)](https://github.com/abbassholli22-dev)
+[![Profile](https://img.shields.io/badge/GitHub-abbassholli22--dev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbassholli22-dev)
+[![Focus](https://img.shields.io/badge/Focus-Global%20Markets-0f766e?style=for-the-badge)](https://github.com/abbassholli22-dev)
+[![Research](https://img.shields.io/badge/Work-Independent%20Research-7c3aed?style=for-the-badge)](https://github.com/abbassholli22-dev)
 
 </div>
 
 ---
 
-## About
+## The lens I use
 
-I analyze the interaction between **financial economics, global financial markets, macroeconomic developments, and political economy**. My work focuses on connecting economic data, market behavior, monetary policy, geopolitical developments, and political decisions to form a clearer view of the global environment.
+I study how **economic forces, financial markets, monetary policy, political decisions, and geopolitical developments** interact. My objective is to move beyond isolated headlines and examine the system behind market movements: incentives, liquidity, power, expectations, and risk.
 
-## Areas of analysis
+> **Understand the system. Question the narrative. Analyze the risk.**
 
-- **Global financial markets** — equities, bonds, currencies, commodities, and digital assets
-- **Macroeconomics** — inflation, growth, employment, liquidity, debt, and business cycles
-- **Monetary policy** — central banks, interest rates, quantitative easing, and financial conditions
-- **Political economy** — the relationship between political decisions, institutions, power, and economic outcomes
-- **Geopolitics and markets** — how international developments affect risk, capital flows, trade, and prices
-- **Market narratives and risk** — scenarios, catalysts, correlations, and factors that can invalidate a thesis
+## Areas of expertise
 
-## What you will find here
+| Domain | What I examine |
+|---|---|
+| **Global financial markets** | Equities, fixed income, currencies, commodities, digital assets, and cross-asset relationships |
+| **Financial economics** | Capital flows, liquidity, valuation, risk premia, leverage, and market structure |
+| **Macroeconomics** | Inflation, growth, employment, debt, business cycles, and economic conditions |
+| **Monetary policy** | Central banks, interest rates, quantitative tightening/easing, and financial conditions |
+| **Political economy** | Institutions, incentives, power, policy choices, and their economic consequences |
+| **Geopolitics & markets** | Trade, sanctions, conflict, energy, supply chains, and global risk transmission |
 
-This profile is a working archive for structured analysis, research notes, market observations, and data-informed perspectives on the global economy and financial markets.
+## What I publish
 
-My preferred approach is to distinguish clearly between:
+This profile is a structured research archive for:
 
-- **Facts** supported by available evidence
-- **Interpretations** of economic and market developments
-- **Assumptions** used in an analysis
-- **Scenarios** describing possible outcomes
-- **Opinions** and analytical judgments
+- Macro and market analysis
+- Economic and geopolitical research
+- Market observations and thematic studies
+- Scenario analysis and risk frameworks
+- Research notes supported by data and primary sources
 
-## Research principles
+## Analytical framework
 
-1. Start with evidence and clearly identify uncertainty.
-2. Separate observed data from interpretation and opinion.
-3. Consider multiple scenarios rather than relying on a single forecast.
-4. Connect macroeconomic, financial, political, and geopolitical factors.
-5. Preserve analytical context and update conclusions when new information emerges.
+My research is organized around five layers:
+
+1. **Evidence** — What do the available data and primary sources show?
+2. **Context** — What historical, institutional, and market conditions matter?
+3. **Mechanism** — Through which channels could the development affect the economy or markets?
+4. **Scenarios** — What are the base, upside, and downside paths?
+5. **Risk** — What assumptions could fail, and what would change the conclusion?
+
+I distinguish explicitly between **facts, interpretations, assumptions, scenarios, and opinions**. Conclusions are treated as conditional judgments and are updated when the evidence changes.
+
+## Research standards
+
+- Prefer primary sources and verifiable evidence.
+- Separate facts from interpretation.
+- Avoid false precision and unsupported certainty.
+- Consider more than one plausible scenario.
+- Preserve the historical context of published analysis.
+- State uncertainty and thesis-invalidating risks clearly.
+
+## Connect with my work
+
+The repositories in this profile will be organized as a clear, evolving record of my research on the global economy and financial markets. For collaboration, discussion, or research exchange, connect with me through GitHub.
 
 ## Disclaimer
 
-The content published here represents personal analysis and opinion for educational and informational purposes. It is not personalized financial, investment, legal, or tax advice.
+The content published here represents personal analysis and opinion for **educational and informational purposes only**. It is not personalized financial, investment, legal, or tax advice. Any scenario or market view is conditional and may change as new information becomes available.
 
 ---
 
 <div align="center">
 
-**Understand the system. Question the narrative. Analyze the risk.**
+**Financial Economics · Global Markets · Political Economy**
 
 </div>
