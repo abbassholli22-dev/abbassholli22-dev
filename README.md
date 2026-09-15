@@ -31,6 +31,10 @@ I study how **economic forces, financial markets, monetary policy, political dec
 | **Political economy** | Institutions, incentives, power, policy choices, and their economic consequences |
 | **Geopolitics & markets** | Trade, sanctions, conflict, energy, supply chains, and global risk transmission |
 
+## Featured analysis
+
+- [Fed September 2026 — Macro & Cross-Asset Scenario Analysis](analyses/fed-september-2026-macro-analysis.md) — scenario framework covering the Fed, BoJ, USD, yields, gold, Bitcoin, equities, oil, and geopolitical risk.
+
 ## What I publish
 
 This profile is a structured research archive for:
