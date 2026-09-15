@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abbas Holli
+# Abbas Sohooli
 
 ### Financial Economics • Global Financial Markets • Political Economy
 
