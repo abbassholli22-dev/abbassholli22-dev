@@ -35,6 +35,10 @@ I study how **economic forces, financial markets, monetary policy, political dec
 
 - [Fed September 2026 — Macro & Cross-Asset Scenario Analysis](analyses/fed-september-2026-macro-analysis.md) — scenario framework covering the Fed, BoJ, USD, yields, gold, Bitcoin, equities, oil, and geopolitical risk.
 
+## Latest prediction
+
+- [Fed September 2026 — Rate Hike Prediction](predictions/fed-september-2026-rate-hike-call.md) — personal base-case call for a 25bp increase in the federal funds rate.
+
 ## What I publish
 
 This profile is a structured research archive for:
