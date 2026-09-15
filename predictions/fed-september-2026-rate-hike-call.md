@@ -1,4 +1,5 @@
 # 🇺🇸 Fed September 2026 — Rate Hike Prediction
+**پیش‌بینی و انتشار:** ۱۶ سپتامبر ۲۰۲۶ · ۰۰:۱۲:۰۸ به وقت ایران (IRST, UTC+03:30)  \n**Git commit:** `408422d634fc09dc6b66ca1b06aa2af0cf2df999`
 
 **Prediction date:** 16 September 2026  
 **FOMC decision:** 16 September 2026

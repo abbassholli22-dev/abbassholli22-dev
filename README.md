@@ -31,6 +31,14 @@ I study how **economic forces, financial markets, monetary policy, political dec
 | **Political economy** | Institutions, incentives, power, policy choices, and their economic consequences |
 | **Geopolitics & markets** | Trade, sanctions, conflict, energy, supply chains, and global risk transmission |
 
+## Publication record
+
+| Document | Created / analysis time | Published time | Time zone | Commit |
+|---|---|---|---|---|
+| [Fed September 2026 Macro & Cross-Asset Scenario Analysis](analyses/fed-september-2026-macro-analysis.md) | 15 September 2026 | 15 September 2026 · 23:38:41 | Iran Standard Time (UTC+03:30) | `8b28391` |
+| [Fed September 2026 Rate Hike Prediction](predictions/fed-september-2026-rate-hike-call.md) | 16 September 2026 | 16 September 2026 · 00:12:08 | Iran Standard Time (UTC+03:30) | `408422d` |
+
+
 ## Featured analysis
 
 - [Fed September 2026 — Macro & Cross-Asset Scenario Analysis](analyses/fed-september-2026-macro-analysis.md) — scenario framework covering the Fed, BoJ, USD, yields, gold, Bitcoin, equities, oil, and geopolitical risk.
