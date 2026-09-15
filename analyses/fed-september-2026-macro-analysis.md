@@ -1,5 +1,6 @@
 # 🇺🇸 Fed September 2026 — Macro & Cross-Asset Scenario Analysis
-**تحلیل و انتشار:** ۱۵ سپتامبر ۲۰۲۶ · ۲۳:۳۸:۴۱ به وقت ایران (IRST, UTC+03:30)  \n**Git commit:** `8b28391b3939d42c4920fd323540bf7f938cfef2`
+**تحلیل و انتشار:** ۱۵ سپتامبر ۲۰۲۶ · ۲۳:۳۸:۴۱ به وقت ایران (IRST, UTC+03:30)  
+**Git commit:** `8b28391b3939d42c4920fd323540bf7f938cfef2`
 
 **Date:** 15 September 2026 · **FOMC Decision:** 16 September 2026 · **BoJ Decision:** 18 September 2026  
 **Coverage:** USD · Gold · Bitcoin · Treasury Yields · Equities · JPY
